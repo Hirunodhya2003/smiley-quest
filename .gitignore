@@ -1,0 +1,14 @@
+node_modules/
+smile-game-frontend/node_modules/
+smile-game-frontend/build/
+server/data/db.json
+*.log
+.env
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+.idea/
+.vscode/
+dist/
+coverage/

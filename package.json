@@ -1,0 +1,13 @@
+{
+  "name": "smiley-game-workspace",
+  "version": "1.0.0",
+  "description": "Smiley Math Puzzle Game - Full Stack Local Application",
+  "scripts": {
+    "start": "node scripts/start-all.js",
+    "server": "node server/server.js",
+    "frontend": "cd smile-game-frontend && npm start",
+    "build": "cd smile-game-frontend && npm run build"
+  },
+  "author": "",
+  "license": "ISC"
+}
